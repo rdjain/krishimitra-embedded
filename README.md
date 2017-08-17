@@ -1,2 +1,1 @@
-# krishimitra-embedded
-meh
+# Krishi_Mitra
